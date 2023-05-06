@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Influx</string>
+    <string name="string_welcome">Welcome back to Influx</string>
+    <string name="string_Delete">Delete savings Details</string>
+    <string name="string_savingsover">savings Over View</string>
+    <string name="string_edit">My Details</string>
+    <string name="string_add">Add</string>
+    <string name="string_addsavings">Add savings</string>
+    <string name="string_readsavings">Read savings</string>
+    <string name="string_catergory">Select Catergory</string>
+    <string name="string_nam2">Enter savings Name</string>
+    <string name="string_greeting">Hello Amanda !</string>
+    <string name="string_totalsavings">My Total savings</string>
+    <string name="string_total1">Rs. 50,000/=</string>
+    <string name="string_viewbutton">View Details</string>
+    <string name="string_savingsdetail">savings Details</string>
+    <string name="string_earned">Earned savings</string>
+    <string name="string_interest">Interest savings</string>
+    <string name="string_rental">Rental savings</string>
+    <string name="string_dividend">Dividend savings</string>
+    <string name="string_editbutton">Edit</string>
+    <string name="string_editandupdate"><![CDATA[Edit & Delete]]></string>
+    <string name="string_editsavings">Edit savings</string>
+    <string name="string_goaltype">Goal Type:</string>
+    <string name="string_salary">savings Money:</string>
+    <string name="string_deletesavings">Delete savings</string>
+    <string name="string_savingstype2">savings Type:</string>
+    <string name="string_deletedetail">Delete Details</string>
+    <string name="string_savedetail">Save Details</string>
+    <string name="string_editButton2">Edit Details</string>
+    <string name="string_select">Select savings Type:</string>
+    <string name="string_catergory2">Select Catergory:</string>
+    <string name="string_addbutton2">Add</string>
+    <string name="string_next">Next</string>
+    <string name="string_amount">Enter New Amount:</string>
+    <string name="navigatebtn">Navigate</string>
+    <string name="button_description">his is a TextView element that displays</string>
+    <string name="enterGoal">Enter Goal Name</string>
+    <string name="amount">Amount</string>
+    <string name="Cancel">Cancel</string>
+    <string name="category">Catergory :</string>
+    <string name="type">savings Type :</string>
+    <string name="cate">Catergory</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="submit">Submit</string>
+    <string name="asavings">Additonal</string>
+    <string name="profit">Sale</string>
+    <string name="rs">50000</string>
+    <string name="goalname">Goal Name :</string>
+    <string name="gname">Kandy trip</string>
+    <string name="Goal_type">Goal Type :</string>
+    <string name="gtype">Travel</string>
+    <string name="date">2023/10/05</string>
+    <string name="ddate">Date :</string>
+    <string name="edits">Edit Savings</string>
+
+
+</resources>

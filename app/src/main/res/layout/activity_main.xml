@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Background_color"
+    tools:context=".MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:textAlignment="center"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <Button
+            android:id="@+id/inco"
+            android:layout_width="301dp"
+            android:layout_height="57dp"
+            android:layout_margin="30dp"
+            android:background="@color/design_default_color_primary"
+            android:contentDescription="@string/button_description"
+            android:focusable="true"
+            android:importantForAccessibility="yes"
+            android:text="@string/string_addsavings"
+            android:textAlignment="center"
+            android:textColor="#FDFDFD"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/readi"
+            android:layout_width="301dp"
+            android:layout_height="57dp"
+            android:layout_margin="30dp"
+            android:background="@color/design_default_color_primary"
+            android:contentDescription="@string/button_description"
+            android:focusable="true"
+            android:importantForAccessibility="yes"
+            android:text="Read savings"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/editi"
+            android:layout_width="301dp"
+            android:layout_height="57dp"
+            android:layout_margin="30dp"
+            android:background="@color/design_default_color_primary"
+            android:contentDescription="@string/button_description"
+            android:focusable="true"
+            android:importantForAccessibility="yes"
+            android:text="Edit savings"
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp" />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
